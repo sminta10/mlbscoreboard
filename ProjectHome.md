@@ -1,0 +1,1 @@
+This gadget displays Major League Baseball (MLB) scoreboard and standings. AL and NL scores are displayed in two different tabs. Th scoreboard in each tab can be in either one-column or two-column format. You can assign display order to each team. Division standings and wild card standings can be turned on or off. You can also specify the time zone for the game time.
